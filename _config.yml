@@ -21,6 +21,7 @@
 title: 欢迎使用小智助手
 email: your-email@example.com
 description: 一个浏览器插件，帮助开发者、跨境工作人员和科研机构安全快速的上网访问。
+repository: xiaozhihelper/xiaozhihelper.github.io
 
 # Build settings
 theme: jekyll-theme-cayman
