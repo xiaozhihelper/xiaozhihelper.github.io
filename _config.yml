@@ -49,4 +49,4 @@ plugins:
 #   - vendor/ruby/
 domain: xiaozhihelper.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://xiaozhihelper.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-zip_url: https://github.com/xiaozhihelper/extensions/archive/refs/tags/v1.0.0.zip
+zip_url: http://ghproxy.com/https://github.com/xiaozhihelper/extensions/archive/refs/tags/v1.0.1.zip
